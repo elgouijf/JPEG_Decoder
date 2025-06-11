@@ -21,9 +21,6 @@ Rajouter **régulièrement** des informations sur l'avancement de votre projet e
 | 3 	  | Couleur 	  | Extension à des images en couleur | J+8 |
 | 4	  | Sous-ech 	  | Extension avec des images avec sous-échantionnage | J +10 |
 
-# Droit dépôt git
-
-Si vous avez besoin de droit supplémentaire sur votre dépôt git, venez voir les profs au premier étage du bâtiment E.
 
 
 # Liens utiles
